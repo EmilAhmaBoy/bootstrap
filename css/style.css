@@ -8,11 +8,13 @@ body {
 }
 
 #header {
-    background: #cfcfcf;
-    padding: 24px;
-    margin-bottom: 36px;
+    padding: 32px;
+    padding-left: 25%;
+    padding-right: 25%;
 }
 
 #content {
     padding: 36px;
+    padding-left: 30%;
+    padding-right: 30%;
 }
