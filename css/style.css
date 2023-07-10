@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.block {
+    margin-bottom: 26px;
+}
+
+#header {
+    background: #cfcfcf;
+    padding: 24px;
+    margin-bottom: 36px;
+}
+
+#content {
+    padding: 36px;
+}
